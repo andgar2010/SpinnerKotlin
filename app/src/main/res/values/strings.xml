@@ -1,0 +1,17 @@
+<resources>
+  <string name="app_name">My Words Favorites</string>
+  <string name="esternocleidomastoideo_word">Esternocleidomastoideo</string>
+  <string name="esternocleidomastoideo_meaning">un músculo robusto situado a los lados del cuello, por debajo del músculo platisma y dentro de una vaina formada por la capa de revestimiento de la fascia cervical profunda</string>
+  <string name="elucubracion_word">Elucubración</string>
+  <string name="elucubracion_meaning">Pensamiento o reflexión sobre algo conseguido tras un intenso trabajo intelectual</string>
+  <string name="idiosincrasia_word">Idiosincrasia</string>
+  <string name="idiosincrasia_meaning">Modo de ser que es característico de una persona o cosa y la distingue de las demás</string>
+  <string name="unknown_word">Lo siento. No conozco esta palabra.</string>
+<!--  <string name="wordsFavorites">wordsFavorites</string>-->
+  <string-array name="wordsFavorites">
+    <item>Idiosincrasia</item>
+    <item>Esternocleidomastoideo</item>
+    <item>JKL</item>
+    <item>Elucubración</item>
+  </string-array>
+</resources>

@@ -1,0 +1,51 @@
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:tools="http://schemas.android.com/tools"
+  android:layout_width="wrap_content"
+  android:layout_height="wrap_content"
+  android:layout_gravity="center"
+  android:orientation="vertical"
+  tools:context=".MainActivity">
+<!--  <Button-->
+<!--    android:layout_width="wrap_content"-->
+<!--    android:layout_height="wrap_content"-->
+<!--    android:layout_gravity="center"-->
+<!--    android:textSize="28sp"-->
+<!--    android:text="@string/ghi_word"-->
+<!--    android:onClick="goToMeaning"/>-->
+<!--  <Button-->
+<!--    android:layout_width="wrap_content"-->
+<!--    android:layout_height="wrap_content"-->
+<!--    android:layout_gravity="center"-->
+<!--    android:textSize="28sp"-->
+<!--    android:text="@string/def_word"-->
+<!--    android:onClick="goToMeaning"/>-->
+<!--  <Button-->
+<!--      android:layout_width="wrap_content"-->
+<!--      android:layout_height="wrap_content"-->
+<!--      android:layout_gravity="center"-->
+<!--      android:textSize="28sp"-->
+<!--      android:text="@string/abc_word"-->
+<!--      android:onClick="goToMeaning"/>-->
+
+  <Spinner
+      android:id="@+id/spinner_words_favorites"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_gravity="center"
+      android:entries="@array/wordsFavorites"
+      android:textSize="35sp" />
+<!--      android:entries="@array/wordsFavorites" -->
+
+  <TextView
+      xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:tools="http://schemas.android.com/tools"
+      android:id="@+id/text_meaning"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_gravity="center"
+      android:padding="32dp"
+      android:textSize="28sp"
+      android:text="@string/esternocleidomastoideo_meaning"
+      />
+</LinearLayout>

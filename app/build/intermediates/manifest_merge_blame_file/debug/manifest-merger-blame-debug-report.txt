@@ -1,0 +1,50 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.sqisland.word"
+4    android:versionCode="1"
+5    android:versionName="1.0.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->G:\project\SpecializedApp\MisPalabrasFavoritas\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->G:\project\SpecializedApp\MisPalabrasFavoritas\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->G:\project\SpecializedApp\MisPalabrasFavoritas\app\src\main\AndroidManifest.xml:5:3-21:17
+12        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+12-->[androidx.core:core:1.1.0] C:\Users\AndGar\.gradle\caches\transforms-2\files-2.1\a05b44a874e1f53fd88a780946ce01f4\core-1.1.0\AndroidManifest.xml:24:18-86
+13        android:debuggable="true"
+14        android:icon="@mipmap/ic_launcher"
+14-->G:\project\SpecializedApp\MisPalabrasFavoritas\app\src\main\AndroidManifest.xml:6:5-39
+15        android:label="@string/app_name"
+15-->G:\project\SpecializedApp\MisPalabrasFavoritas\app\src\main\AndroidManifest.xml:7:5-37
+16        android:testOnly="true"
+17        android:theme="@style/AppTheme" >
+17-->G:\project\SpecializedApp\MisPalabrasFavoritas\app\src\main\AndroidManifest.xml:8:5-36
+18        <activity
+18-->G:\project\SpecializedApp\MisPalabrasFavoritas\app\src\main\AndroidManifest.xml:9:5-11:51
+19            android:name="com.sqisland.word.MeaningActivity"
+19-->G:\project\SpecializedApp\MisPalabrasFavoritas\app\src\main\AndroidManifest.xml:10:7-38
+20            android:parentActivityName="com.sqisland.word.MainActivity" />
+20-->G:\project\SpecializedApp\MisPalabrasFavoritas\app\src\main\AndroidManifest.xml:11:7-49
+21        <activity
+21-->G:\project\SpecializedApp\MisPalabrasFavoritas\app\src\main\AndroidManifest.xml:12:5-20:16
+22            android:name="com.sqisland.word.MainActivity"
+22-->G:\project\SpecializedApp\MisPalabrasFavoritas\app\src\main\AndroidManifest.xml:13:7-35
+23            android:label="@string/app_name" >
+23-->G:\project\SpecializedApp\MisPalabrasFavoritas\app\src\main\AndroidManifest.xml:14:7-39
+24            <intent-filter>
+24-->G:\project\SpecializedApp\MisPalabrasFavoritas\app\src\main\AndroidManifest.xml:15:7-19:23
+25                <action android:name="android.intent.action.MAIN" />
+25-->G:\project\SpecializedApp\MisPalabrasFavoritas\app\src\main\AndroidManifest.xml:16:9-61
+25-->G:\project\SpecializedApp\MisPalabrasFavoritas\app\src\main\AndroidManifest.xml:16:17-58
+26
+27                <category android:name="android.intent.category.LAUNCHER" />
+27-->G:\project\SpecializedApp\MisPalabrasFavoritas\app\src\main\AndroidManifest.xml:18:9-69
+27-->G:\project\SpecializedApp\MisPalabrasFavoritas\app\src\main\AndroidManifest.xml:18:19-66
+28            </intent-filter>
+29        </activity>
+30    </application>
+31
+32</manifest>
