@@ -23,15 +23,15 @@
 17        android:theme="@style/AppTheme" >
 17-->G:\project\SpecializedApp\MisPalabrasFavoritas\app\src\main\AndroidManifest.xml:8:5-36
 18        <activity
-18-->G:\project\SpecializedApp\MisPalabrasFavoritas\app\src\main\AndroidManifest.xml:9:5-11:51
-19            android:name="com.sqisland.word.MeaningActivity"
-19-->G:\project\SpecializedApp\MisPalabrasFavoritas\app\src\main\AndroidManifest.xml:10:7-38
-20            android:parentActivityName="com.sqisland.word.MainActivity" />
-20-->G:\project\SpecializedApp\MisPalabrasFavoritas\app\src\main\AndroidManifest.xml:11:7-49
+18-->G:\project\SpecializedApp\MisPalabrasFavoritas\app\src\main\AndroidManifest.xml:9:5-11:87
+19            android:name="com.tech_andgar.App2067710_03Spinner.MeaningActivity"
+19-->G:\project\SpecializedApp\MisPalabrasFavoritas\app\src\main\AndroidManifest.xml:10:7-74
+20            android:parentActivityName="com.tech_andgar.App2067710_03Spinner.MainActivity" />
+20-->G:\project\SpecializedApp\MisPalabrasFavoritas\app\src\main\AndroidManifest.xml:11:7-85
 21        <activity
 21-->G:\project\SpecializedApp\MisPalabrasFavoritas\app\src\main\AndroidManifest.xml:12:5-20:16
-22            android:name="com.sqisland.word.MainActivity"
-22-->G:\project\SpecializedApp\MisPalabrasFavoritas\app\src\main\AndroidManifest.xml:13:7-35
+22            android:name="com.tech_andgar.App2067710_03Spinner.MainActivity"
+22-->G:\project\SpecializedApp\MisPalabrasFavoritas\app\src\main\AndroidManifest.xml:13:7-71
 23            android:label="@string/app_name" >
 23-->G:\project\SpecializedApp\MisPalabrasFavoritas\app\src\main\AndroidManifest.xml:14:7-39
 24            <intent-filter>

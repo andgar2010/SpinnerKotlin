@@ -29,7 +29,7 @@ INJECTED from G:\project\SpecializedApp\MisPalabrasFavoritas\app\src\main\Androi
 INJECTED from G:\project\SpecializedApp\MisPalabrasFavoritas\app\src\main\AndroidManifest.xml:2:1-23:12
 INJECTED from G:\project\SpecializedApp\MisPalabrasFavoritas\app\src\main\AndroidManifest.xml:2:1-23:12
 	package
-		ADDED from G:\project\SpecializedApp\MisPalabrasFavoritas\app\src\main\AndroidManifest.xml:3:3-30
+		ADDED from G:\project\SpecializedApp\MisPalabrasFavoritas\app\src\main\AndroidManifest.xml:3:3-49
 		INJECTED from G:\project\SpecializedApp\MisPalabrasFavoritas\app\src\main\AndroidManifest.xml
 		INJECTED from G:\project\SpecializedApp\MisPalabrasFavoritas\app\src\main\AndroidManifest.xml
 	android:versionName
@@ -58,18 +58,18 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\An
 		ADDED from G:\project\SpecializedApp\MisPalabrasFavoritas\app\src\main\AndroidManifest.xml:6:5-39
 	android:theme
 		ADDED from G:\project\SpecializedApp\MisPalabrasFavoritas\app\src\main\AndroidManifest.xml:8:5-36
-activity#com.sqisland.word.MeaningActivity
-ADDED from G:\project\SpecializedApp\MisPalabrasFavoritas\app\src\main\AndroidManifest.xml:9:5-11:51
+activity#com.tech_andgar.App2067710_03Spinner.MeaningActivity
+ADDED from G:\project\SpecializedApp\MisPalabrasFavoritas\app\src\main\AndroidManifest.xml:9:5-11:87
 	android:parentActivityName
-		ADDED from G:\project\SpecializedApp\MisPalabrasFavoritas\app\src\main\AndroidManifest.xml:11:7-49
+		ADDED from G:\project\SpecializedApp\MisPalabrasFavoritas\app\src\main\AndroidManifest.xml:11:7-85
 	android:name
-		ADDED from G:\project\SpecializedApp\MisPalabrasFavoritas\app\src\main\AndroidManifest.xml:10:7-38
-activity#com.sqisland.word.MainActivity
+		ADDED from G:\project\SpecializedApp\MisPalabrasFavoritas\app\src\main\AndroidManifest.xml:10:7-74
+activity#com.tech_andgar.App2067710_03Spinner.MainActivity
 ADDED from G:\project\SpecializedApp\MisPalabrasFavoritas\app\src\main\AndroidManifest.xml:12:5-20:16
 	android:label
 		ADDED from G:\project\SpecializedApp\MisPalabrasFavoritas\app\src\main\AndroidManifest.xml:14:7-39
 	android:name
-		ADDED from G:\project\SpecializedApp\MisPalabrasFavoritas\app\src\main\AndroidManifest.xml:13:7-35
+		ADDED from G:\project\SpecializedApp\MisPalabrasFavoritas\app\src\main\AndroidManifest.xml:13:7-71
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
 ADDED from G:\project\SpecializedApp\MisPalabrasFavoritas\app\src\main\AndroidManifest.xml:15:7-19:23
 action#android.intent.action.MAIN
